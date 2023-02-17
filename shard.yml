@@ -1,0 +1,13 @@
+name: json-alias
+version: 0.1.0
+
+authors:
+  - Margret Riegert <margret@eowyn.net>
+
+targets:
+  parse_data:
+    main: src/json-alias/parse_data.cr
+
+crystal: 1.7.2
+
+license: MIT
